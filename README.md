@@ -1,4 +1,4 @@
-# Vector Control of a PMSM
+# Field-Oriented Control of a PMSM
 This is the github reposity of an academic project at the University of Paris-Saclay.
 
 ## Project Objectives (Non-exhaustive list)
