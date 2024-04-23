@@ -7,5 +7,6 @@ This is the github reposity of an academic project at the University of Paris-Sa
 - Modeling and simulation of a permanent magnet synchronous motor on Simulink.
 - Implementing Speed and current control (in addition to compensator parameter tuning).
 - Modeling and simulation of the vector control scheme.
+- Coparing our results to the project specifications.
 ## Simulation Results
-![Speed output in Rad/S for a step function reference speed input](https://github.com/AHZ456/Vector-Control-of-a-PMSM/assets/83831043/c08b04e4-d315-4f61-aff0-5fef7eeaad6e)
+![Speed output in Rad/S for a step function reference speed input](https://github.com/AHZ456/Field-Oriented-Control-of-a-PMSM/assets/83831043/faff4213-9222-4b57-b7c8-2e73739daf03)
